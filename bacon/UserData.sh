@@ -12,6 +12,7 @@ mkdir chenjianAgain
 echo "export PATH=/usr/share/swift/usr/bin:$PATH" >> ~/.bashrc
 source  ~/.bashrc
 mkdir c
+sudo apt-get update && apt-get upgrade
 sudo apt install -y curl
 eval "$(curl -sL https://apt.vapor.sh)"
 sudo apt-get install -y swift vapor
@@ -25,7 +26,7 @@ touch ~/.ssh/id_rsa
 chmod 777 ~/.ssh/id_rsa
 cat key.pri > ~/.ssh/id_rsa
 chmod 400 ~/.ssh/id_rsa
-git clone git@github.com:derekcoder/AcronymApp.git
+echo 'yes' | git clone git@github.com:derekcoder/AcronymApp.git
 cd AcronymApp
 mkdir e
 ## change db source
