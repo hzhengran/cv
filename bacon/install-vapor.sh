@@ -15,4 +15,4 @@ mkdir c
 sudo apt-get update && apt-get upgrade
 sudo apt install -y curl
 eval "$(curl -sL https://apt.vapor.sh)"
-sudo apt-get install -y swift vapor
+sudo apt-get install -y vapor
