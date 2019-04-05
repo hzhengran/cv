@@ -6,5 +6,5 @@ chmod +x install-vapor.sh
 
 git clone https://github.com/chenjianAgain/VaporTest3.git
 cd VaporTest3/
-sudo vapor build
+vapor build
 nohup vapor run --hostname=0.0.0.0 --port=80 &
