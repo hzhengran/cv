@@ -30,7 +30,7 @@ echo 'yes' | git clone git@github.com:derekcoder/AcronymApp.git
 cd AcronymApp
 mkdir e
 ## change db source
-sed -i 's/localhost/35.238.101.198/g' Sources/App/configure.swift
+sed -i 's/localhost/db-dev.josephaws.com/g' Sources/App/configure.swift
 mkdir f
 ## vapor build and run in background
 vapor build 
