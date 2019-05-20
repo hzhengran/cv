@@ -14,7 +14,7 @@ do
        sleep 300
        # rm -rf info*
        wait
-    } &  
+    } # &  
 done
 wait    
 end=`date +"%s"`
