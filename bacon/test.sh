@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILE=a.log
+FILE=b.log
 touch $FILE
 
 start=`date +"%s"`
