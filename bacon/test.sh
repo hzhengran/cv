@@ -5,7 +5,7 @@ touch $FILE
 
 start=`date +"%s"`
 echo "`date +%F` `date +%T`: Begin" >> $FILE
-for (( i=0; i<1; i++ ))
+for (( i=0; i<4; i++ ))
 do
     {
        echo "multiprocess"
