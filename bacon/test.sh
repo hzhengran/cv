@@ -3,7 +3,7 @@
 touch /totalTime.log
 
 start=`date +"%s"`
-echo "start-time:  `$start`" >> /totalTime.log
+echo "start-time:  $start" >> /totalTime.log
 for (( i=0; i<1; i++ ))
 do
     {
@@ -15,7 +15,7 @@ do
 done
 wait    
 end=`date +"%s"`
-echo "end-time:  `$end`" >> /totalTime.log
-echo "time:  `expr $end - $start`" >> /totalTime.log
+echo "end-time:  $end" >> /totalTime.log
+echo "time:  expr $end - $start" >> /totalTime.log
 
 rm -rf info*
