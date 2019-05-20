@@ -1,10 +1,11 @@
 #!/bin/bash
 
-touch totalTime.log
+FILE=a.log
+touch $FILE
 
 start=`date +"%s"`
-echo "start-time:  $start" >> totalTime.log
-for (( i=0; i<11; i++ ))
+echo "`date +%F` `date +%T`: Begin" >> $FILE
+for (( i=0; i<1; i++ ))
 do
     {
        echo "multiprocess"
@@ -15,8 +16,8 @@ do
 done
 wait    
 end=`date +"%s"`
-echo "end-time:  $end" >> totalTime.log
+echo "`date +%F` `date +%T`: End" >> $FILE
 delta=`expr $end - $start`
-echo "delta time:  $delta" >> totalTime.log
+echo "delta time:  $delta" >> $FILE
 
 rm -rf info*
