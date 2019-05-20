@@ -1,7 +1,7 @@
 #!/bin/bash
 start=`date +"%s"`
 echo "start-time: " `$start` >> /totalTime.log
-for (( i=0; i<10; i++ ))
+for (( i=0; i<1; i++ ))
 do
     {
        echo "multiprocess"
