@@ -1,5 +1,6 @@
 #!/bin/bash
 start=`date +"%s"`
+echo "start-time: " `$start` >> /totalTime.log
 for (( i=0; i<10; i++ ))
 do
     {
@@ -11,6 +12,7 @@ do
 done
 wait    
 end=`date +"%s"`
-echo "time: " `expr $end - $start`
+echo "end-time: " `$end` >> /totalTime.log
+echo "time: " `expr $end - $start` >> /totalTime.log
 
 rm -rf info*
