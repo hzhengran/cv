@@ -4,7 +4,7 @@ touch totalTime.log
 
 start=`date +"%s"`
 echo "start-time:  $start" >> totalTime.log
-for (( i=0; i<1; i++ ))
+for (( i=0; i<11; i++ ))
 do
     {
        echo "multiprocess"
