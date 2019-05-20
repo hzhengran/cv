@@ -1,9 +1,9 @@
 #!/bin/bash
 
-touch /totalTime.log
+touch totalTime.log
 
 start=`date +"%s"`
-echo "start-time:  $start" >> /totalTime.log
+echo "start-time:  $start" >> totalTime.log
 for (( i=0; i<1; i++ ))
 do
     {
@@ -15,8 +15,8 @@ do
 done
 wait    
 end=`date +"%s"`
-echo "end-time:  $end" >> /totalTime.log
+echo "end-time:  $end" >> totalTime.log
 delta=`expr $end - $start`
-echo "delta time:  $delta" >> /totalTime.log
+echo "delta time:  $delta" >> totalTime.log
 
 rm -rf info*
