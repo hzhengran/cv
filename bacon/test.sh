@@ -16,6 +16,7 @@ done
 wait    
 end=`date +"%s"`
 echo "end-time:  $end" >> /totalTime.log
-echo "time:  expr $end - $start" >> /totalTime.log
+delta=`expr $end - $start`
+echo "delta time:  $delta" >> /totalTime.log
 
 rm -rf info*
