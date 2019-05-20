@@ -1,4 +1,7 @@
 #!/bin/bash
+
+touch /totalTime.log
+
 start=`date +"%s"`
 echo "start-time: " `$start` >> /totalTime.log
 for (( i=0; i<1; i++ ))
