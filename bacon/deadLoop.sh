@@ -1,6 +1,15 @@
 #!/bin/bash
 
-FILE=c.log
+
+# if filename not supplied at the command prompt
+# use default file name
+if [ $# -eq 0 ] 
+then
+   FILE=c.log
+else
+   FILE=$1
+fi
+
 touch $FILE
 
 start=`date +"%s"`
