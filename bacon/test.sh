@@ -15,7 +15,9 @@ do
        echo "`date +%F` `date +%T`: $i time completed" >> $FILE
 
        # sleep 300
-       # rm -rf info*
+       rm -rf info*
+       echo "Deleted completed. $i" >> $FILE
+
        wait
     } # &  
 done
