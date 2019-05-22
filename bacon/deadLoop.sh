@@ -27,10 +27,9 @@ do
 
        sleep 30
        rm -rf info*
-       wait
     } # &  
 done
-wait    
+  
 end=`date +"%s"`
 echo "`date +%F` `date +%T`: End" >> $FILE
 delta=`expr $end - $start`
