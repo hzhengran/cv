@@ -29,7 +29,7 @@ do
        echo "task $i delta time:  $delta" >> $FILE
        echo "`date +%F` `date +%T`: $i time completed" >> $FILE
       
-       sleep 30
+       sleep 3
        rm -rf info*
     }
 done
