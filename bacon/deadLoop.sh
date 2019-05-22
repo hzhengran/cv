@@ -27,7 +27,7 @@ do
 
        sleep 30
        rm -rf info*
-    } # &  
+    }
 done
   
 end=`date +"%s"`
