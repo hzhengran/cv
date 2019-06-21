@@ -1,0 +1,1193 @@
+VPN Logs:
+Attempt 1
+Fri Jun 21 15:54:05 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:54:05 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:54:05 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+Fri Jun 21 15:54:05 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:54:05 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+Fri Jun 21 15:54:05 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:54:05 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:54:05 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:54:05 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:05 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:05 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:54:05 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:54:05 2019 UDP link local: (not bound)
+Fri Jun 21 15:54:05 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:54:05 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:54:05 2019 Network unreachable, restarting
+Fri Jun 21 15:54:05 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 2
+Fri Jun 21 15:53:40 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:40 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:40 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+Fri Jun 21 15:53:40 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:40 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+Fri Jun 21 15:53:40 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:53:40 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:53:40 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:53:40 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:40 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:40 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:40 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:53:40 2019 UDP link local: (not bound)
+Fri Jun 21 15:53:40 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:40 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:53:40 2019 Network unreachable, restarting
+Fri Jun 21 15:53:40 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 3
+Fri Jun 21 15:53:42 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:42 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:42 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+Fri Jun 21 15:53:42 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:42 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+Fri Jun 21 15:53:42 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:53:42 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:53:42 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:53:42 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:42 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:42 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:53:42 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:53:42 2019 UDP link local: (not bound)
+Fri Jun 21 15:53:42 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:53:42 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:53:42 2019 Network unreachable, restarting
+Fri Jun 21 15:53:42 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 4
+Fri Jun 21 15:54:09 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:54:09 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:54:09 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+Fri Jun 21 15:54:09 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:54:09 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+Fri Jun 21 15:54:09 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:54:09 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:54:09 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:54:09 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:09 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:09 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:54:09 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:54:09 2019 UDP link local: (not bound)
+Fri Jun 21 15:54:09 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:54:09 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:54:09 2019 Network unreachable, restarting
+Fri Jun 21 15:54:09 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 5
+Fri Jun 21 15:54:07 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:54:07 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:54:07 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+Fri Jun 21 15:54:07 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:54:07 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+Fri Jun 21 15:54:07 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:54:07 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:54:07 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:54:07 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:07 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:07 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:54:07 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:54:07 2019 UDP link local: (not bound)
+Fri Jun 21 15:54:07 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:54:07 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:54:07 2019 Network unreachable, restarting
+Fri Jun 21 15:54:07 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 6
+Fri Jun 21 15:53:58 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:58 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:58 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+Fri Jun 21 15:53:58 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:58 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+Fri Jun 21 15:53:58 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:53:58 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:53:58 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:53:58 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:58 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:58 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:58 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:53:58 2019 UDP link local: (not bound)
+Fri Jun 21 15:53:58 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:58 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:53:58 2019 Network unreachable, restarting
+Fri Jun 21 15:53:58 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 7
+Fri Jun 21 15:53:38 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:38 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:38 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+Fri Jun 21 15:53:38 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:38 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+Attempt 8
+Fri Jun 21 15:53:53 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:53 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:53 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+Fri Jun 21 15:53:53 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:53 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+Fri Jun 21 15:53:53 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:53:53 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:53:53 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:53:53 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:53 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:53 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:53:53 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:53:53 2019 UDP link local: (not bound)
+Fri Jun 21 15:53:53 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:53:53 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:53:53 2019 Network unreachable, restarting
+Fri Jun 21 15:53:53 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 9
+Fri Jun 21 15:54:03 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:54:03 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:54:03 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+Fri Jun 21 15:54:03 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:54:03 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+Fri Jun 21 15:54:03 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:54:03 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:54:03 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:54:03 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:03 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:54:03 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:54:03 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:54:03 2019 UDP link local: (not bound)
+Fri Jun 21 15:54:03 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+Fri Jun 21 15:54:03 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:54:03 2019 Network unreachable, restarting
+Fri Jun 21 15:54:03 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Attempt 10
+Fri Jun 21 15:53:46 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+Fri Jun 21 15:53:46 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+Fri Jun 21 15:53:46 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+Fri Jun 21 15:53:46 2019 Need password(s) from management interface, waiting...
+Fri Jun 21 15:53:46 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+Fri Jun 21 15:53:46 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Fri Jun 21 15:53:46 2019 MANAGEMENT: CMD 'password [...]'
+Fri Jun 21 15:53:46 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Fri Jun 21 15:53:46 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:46 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Fri Jun 21 15:53:46 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:46 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Fri Jun 21 15:53:46 2019 UDP link local: (not bound)
+Fri Jun 21 15:53:46 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+Fri Jun 21 15:53:46 2019 write UDP: Network unreachable (code=101)
+Fri Jun 21 15:53:46 2019 Network unreachable, restarting
+Fri Jun 21 15:53:46 2019 SIGTERM[soft,network-unreachable] received, process exiting
+System Logs:
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Fri Jun 21 15:48:35 2019: Attempt 1
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:48:35 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:48:37 2019: Attempt 2
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:48:37 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:48:39 2019: Attempt 3
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:48:39 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:48:43 2019: Attempt 4
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:48:43 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:48:50 2019: Attempt 5
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:48:50 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:48:55 2019: Attempt 6
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:48:55 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:48:55 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:48:55 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:48:55 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Fri Jun 21 15:49:00 2019: Attempt 7
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:49:00 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:49:00 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:49:00 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:49:00 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Fri Jun 21 15:49:02 2019: Attempt 8
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:49:02 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:04 2019: Attempt 9
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:49:04 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:06 2019: Attempt 10
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:49:06 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:49:06 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:49:06 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:49:06 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:49:06 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Openvpn connector waiting
+fetching endpoints for 148
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Fri Jun 21 15:49:36 2019: Attempt 1
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 Need password(s) from management interface, waiting...
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 Network unreachable, restarting
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:49:36 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:38 2019: Attempt 2
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:49:38 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:40 2019: Attempt 3
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:49:40 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:44 2019: Attempt 4
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:49:44 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:51 2019: Attempt 5
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:49:51 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:49:56 2019: Attempt 6
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:49:56 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:49:56 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:49:56 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:49:56 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:49:56 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Fri Jun 21 15:50:01 2019: Attempt 7
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:50:01 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:50:03 2019: Attempt 8
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:50:03 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:50:05 2019: Attempt 9
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:50:05 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:50:07 2019: Attempt 10
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:50:07 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Openvpn connector waiting
+fetching endpoints for 148
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Fri Jun 21 15:51:07 2019: Attempt 1
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:51:07 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:51:07 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:51:07 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:51:07 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:51:07 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Fri Jun 21 15:51:09 2019: Attempt 2
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:51:09 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:11 2019: Attempt 3
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:51:11 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:15 2019: Attempt 4
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:51:15 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:22 2019: Attempt 5
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:51:22 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:27 2019: Attempt 6
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:51:27 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:32 2019: Attempt 7
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:51:32 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:34 2019: Attempt 8
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:51:34 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:36 2019: Attempt 9
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:51:36 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:51:38 2019: Attempt 10
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:51:38 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Openvpn connector waiting
+fetching endpoints for 148
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Fri Jun 21 15:53:38 2019: Attempt 1
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:53:38 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:53:38 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:53:38 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:53:38 2019 Need password(s) from management interface, waiting...
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1:Fri Jun 21 15:53:38 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-1.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+Fri Jun 21 15:53:40 2019: Attempt 2
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-2:Fri Jun 21 15:53:40 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:53:42 2019: Attempt 3
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-3:Fri Jun 21 15:53:42 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:53:46 2019: Attempt 4
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-4:Fri Jun 21 15:53:46 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:53:53 2019: Attempt 5
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-5:Fri Jun 21 15:53:53 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:53:58 2019: Attempt 6
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-6:Fri Jun 21 15:53:58 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:54:03 2019: Attempt 7
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-7:Fri Jun 21 15:54:03 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:54:05 2019: Attempt 8
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-8:Fri Jun 21 15:54:05 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:54:07 2019: Attempt 9
+starting openvpn /tmp/config-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.ovpn
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 UDP link local: (not bound)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 UDP link remote: [AF_INET]139.178.77.40:13606
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 write UDP: Network unreachable (code=101)
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 Network unreachable, restarting
+139-178-77-40-13606-udp-s-[Japan---Tokyo---1]-9:Fri Jun 21 15:54:07 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Fri Jun 21 15:54:09 2019: Attempt 10
+starting openvpn /tmp/config-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.ovpn
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 OpenVPN 2.4.6 arm-openwrt-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [MH/PKTINFO] [AEAD] built on Apr 17 2019
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 library versions: OpenSSL 1.1.1b  26 Feb 2019, LZO 2.09
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 MANAGEMENT: unix domain socket listening on /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 MANAGEMENT: Client connected from /tmp/unix-139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 MANAGEMENT: CMD 'password [...]'
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 TCP/UDP: Preserving recently used remote address: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 UDP link local: (not bound)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 UDP link remote: [AF_INET]139.178.77.28:13419
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 write UDP: Network unreachable (code=101)
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 Network unreachable, restarting
+139-178-77-28-13419-udp-s-[Japan---Tokyo---1]-10:Fri Jun 21 15:54:09 2019 SIGTERM[soft,network-unreachable] received, process exiting
+Openvpn connector waiting
