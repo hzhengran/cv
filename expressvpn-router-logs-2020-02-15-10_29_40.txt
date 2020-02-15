@@ -1,0 +1,1247 @@
+VPN Logs:
+Attempt 1
+Sat Feb 15 11:29:13 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:13 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:13 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+Sat Feb 15 11:29:13 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:13 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+Sat Feb 15 11:29:13 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:13 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:13 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:13 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:13 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:13 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:13 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:13 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:13 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+first packet timeout
+Attempt 2
+Sat Feb 15 11:29:17 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:17 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:17 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+Sat Feb 15 11:29:17 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:17 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+Sat Feb 15 11:29:17 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:17 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:17 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:17 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:17 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:17 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:17 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:17 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:17 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+first packet timeout
+Attempt 3
+Sat Feb 15 11:29:20 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:20 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:20 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+Sat Feb 15 11:29:20 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:20 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+Sat Feb 15 11:29:20 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:20 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:20 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:20 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:20 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:20 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:20 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:20 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:20 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+first packet timeout
+Attempt 4
+Sat Feb 15 11:29:23 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:23 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:23 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+Sat Feb 15 11:29:23 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:23 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+Sat Feb 15 11:29:23 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:23 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:23 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:23 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:23 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:23 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:23 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:23 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:23 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+first packet timeout
+Attempt 5
+Sat Feb 15 11:29:27 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:27 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:27 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+Sat Feb 15 11:29:27 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:27 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+Sat Feb 15 11:29:27 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:27 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:27 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:27 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:27 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:27 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:27 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:27 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:27 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+first packet timeout
+Attempt 6
+Sat Feb 15 11:29:15 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:15 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:15 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+Sat Feb 15 11:29:15 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:15 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+Sat Feb 15 11:29:15 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:15 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:15 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:15 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:15 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:15 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+Sat Feb 15 11:29:15 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:15 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:15 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+first packet timeout
+Attempt 7
+Sat Feb 15 11:29:18 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:18 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:18 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+Sat Feb 15 11:29:18 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:18 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+Sat Feb 15 11:29:18 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:18 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:18 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:18 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:18 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:18 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+Sat Feb 15 11:29:18 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:18 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:18 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+first packet timeout
+Attempt 8
+Sat Feb 15 11:29:22 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:22 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:22 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+Sat Feb 15 11:29:22 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:22 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+Sat Feb 15 11:29:22 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:22 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:22 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:22 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:22 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:22 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+Sat Feb 15 11:29:22 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:22 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:22 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+first packet timeout
+Attempt 9
+Sat Feb 15 11:29:25 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:25 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:25 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+Sat Feb 15 11:29:25 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:25 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+Sat Feb 15 11:29:25 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:25 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:25 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:25 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:25 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:25 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+Sat Feb 15 11:29:25 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:25 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:25 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+first packet timeout
+Attempt 10
+Sat Feb 15 11:29:28 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:28 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:28 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+Sat Feb 15 11:29:28 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:28 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:28 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:28 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:28 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:28 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+Sat Feb 15 11:29:28 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:28 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:28 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+first packet timeout
+Attempt 11
+Sat Feb 15 11:29:28 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:28 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:28 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+Sat Feb 15 11:29:28 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:28 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:28 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:28 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:28 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:28 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.57:37144
+Sat Feb 15 11:29:28 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:28 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:28 2020 UDP link remote: [AF_INET]45.84.215.57:37144
+first packet timeout
+Attempt 12
+Sat Feb 15 11:29:30 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:30 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:30 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+Sat Feb 15 11:29:30 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:30 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+Sat Feb 15 11:29:30 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:30 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:30 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:30 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:30 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Sat Feb 15 11:29:30 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.105:44739
+Sat Feb 15 11:29:30 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Sat Feb 15 11:29:30 2020 UDP link local: (not bound)
+Sat Feb 15 11:29:30 2020 UDP link remote: [AF_INET]45.84.215.105:44739
+first packet timeout
+Attempt 13
+Sat Feb 15 11:29:31 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:31 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:31 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+Sat Feb 15 11:29:31 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:31 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+Sat Feb 15 11:29:31 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:31 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:31 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:31 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+Sat Feb 15 11:29:31 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+Sat Feb 15 11:29:31 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.123:443
+Sat Feb 15 11:29:31 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+Sat Feb 15 11:29:31 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.123:443 [nonblock]
+first packet timeout
+Attempt 14
+Sat Feb 15 11:29:33 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Sat Feb 15 11:29:33 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Sat Feb 15 11:29:33 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+Sat Feb 15 11:29:33 2020 Need password(s) from management interface, waiting...
+Sat Feb 15 11:29:33 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+Sat Feb 15 11:29:33 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Sat Feb 15 11:29:33 2020 MANAGEMENT: CMD 'password [...]'
+Sat Feb 15 11:29:33 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Sat Feb 15 11:29:33 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+Sat Feb 15 11:29:33 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+Sat Feb 15 11:29:33 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.155:443
+Sat Feb 15 11:29:33 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+Sat Feb 15 11:29:33 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.155:443 [nonblock]
+first packet timeout
+System Logs:
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector disconnected
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+connect 71
+Saving settings, exporting static leases
+fetching endpoints for 71
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+leaving disconnected state
+Openvpn connector connecting
+Fri Feb 14 23:19:36 2020: Attempt 1
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:19:36 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:19:37 2020: Attempt 2
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:19:37 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:first packet timeout
+Fri Feb 14 23:19:39 2020: Attempt 3
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:19:39 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:19:41 2020: Attempt 4
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:19:41 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:first packet timeout
+Fri Feb 14 23:19:43 2020: Attempt 5
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:19:43 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:19:44 2020: Attempt 6
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:19:44 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:first packet timeout
+Fri Feb 14 23:19:46 2020: Attempt 7
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:19:46 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:19:48 2020: Attempt 8
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:19:48 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:first packet timeout
+Fri Feb 14 23:19:50 2020: Attempt 9
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Fri Feb 14 23:19:50 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:19:51 2020: Attempt 11
+starting openvpn /tmp/config-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.ovpn
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.57:37144
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 UDP link local: (not bound)
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Fri Feb 14 23:19:51 2020 UDP link remote: [AF_INET]45.84.215.57:37144
+Fri Feb 14 23:19:51 2020: Attempt 10
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Fri Feb 14 23:19:51 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:first packet timeout
+Fri Feb 14 23:19:52 2020: Attempt 12
+starting openvpn /tmp/config-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.ovpn
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.105:44739
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 UDP link local: (not bound)
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Fri Feb 14 23:19:52 2020 UDP link remote: [AF_INET]45.84.215.105:44739
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:first packet timeout
+Fri Feb 14 23:19:54 2020: Attempt 13
+starting openvpn /tmp/config-45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13.ovpn
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.20:443
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:Fri Feb 14 23:19:54 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.20:443 [nonblock]
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:first packet timeout
+Fri Feb 14 23:19:55 2020: Attempt 14
+starting openvpn /tmp/config-45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14.ovpn
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.105:443
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:Fri Feb 14 23:19:55 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.105:443 [nonblock]
+45-84-215-20-443-tcp-x-[USA---Los-Angeles---5]-13:first packet timeout
+45-84-215-105-443-tcp-x-[USA---Los-Angeles---5]-14:first packet timeout
+Openvpn connector waiting
+fetching endpoints for 71
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Fri Feb 14 23:20:11 2020: Attempt 1
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Fri Feb 14 23:20:11 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:20:12 2020: Attempt 2
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Fri Feb 14 23:20:12 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:first packet timeout
+Fri Feb 14 23:20:14 2020: Attempt 3
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:first packet timeout
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Fri Feb 14 23:20:14 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:20:16 2020: Attempt 4
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Fri Feb 14 23:20:16 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:first packet timeout
+Fri Feb 14 23:20:17 2020: Attempt 5
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Fri Feb 14 23:20:17 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:20:19 2020: Attempt 6
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Fri Feb 14 23:20:19 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:first packet timeout
+Fri Feb 14 23:20:21 2020: Attempt 7
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:first packet timeout
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Fri Feb 14 23:20:21 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Fri Feb 14 23:20:22 2020: Attempt 8
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Fri Feb 14 23:20:22 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:first packet timeout
+Saving settings, exporting static leases
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:first packet timeout
+Fri Feb 14 23:20:24 2020: Attempt 9
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.ovpn
+Openvpn connector disconnected
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+connect 71
+Saving settings, exporting static leases
+fetching endpoints for 71
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+leaving disconnected state
+Openvpn connector connecting
+Sat Feb 15 11:29:13 2020: Attempt 1
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 Need password(s) from management interface, waiting...
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:Sat Feb 15 11:29:13 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:15 2020: Attempt 2
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 Need password(s) from management interface, waiting...
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:Sat Feb 15 11:29:15 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-1:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-2:first packet timeout
+Sat Feb 15 11:29:17 2020: Attempt 3
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:Sat Feb 15 11:29:17 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:18 2020: Attempt 4
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:Sat Feb 15 11:29:18 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-3:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-4:first packet timeout
+Sat Feb 15 11:29:20 2020: Attempt 5
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:Sat Feb 15 11:29:20 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:22 2020: Attempt 6
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:Sat Feb 15 11:29:22 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-5:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-6:first packet timeout
+Sat Feb 15 11:29:23 2020: Attempt 7
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.ovpn
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:Sat Feb 15 11:29:23 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:25 2020: Attempt 8
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:Sat Feb 15 11:29:25 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-7:first packet timeout
+Sat Feb 15 11:29:27 2020: Attempt 9
+starting openvpn /tmp/config-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-8:first packet timeout
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 MANAGEMENT: CMD 'password [...]'
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.89.222:42352
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 UDP link local: (not bound)
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:Sat Feb 15 11:29:27 2020 UDP link remote: [AF_INET]45.85.89.222:42352
+Sat Feb 15 11:29:28 2020: Attempt 11
+starting openvpn /tmp/config-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.ovpn
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.57:37144
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 UDP link local: (not bound)
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:Sat Feb 15 11:29:28 2020 UDP link remote: [AF_INET]45.84.215.57:37144
+Sat Feb 15 11:29:28 2020: Attempt 10
+starting openvpn /tmp/config-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.ovpn
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 MANAGEMENT: Client connected from /tmp/unix-45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 MANAGEMENT: CMD 'password [...]'
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.85.88.219:46664
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 UDP link local: (not bound)
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:Sat Feb 15 11:29:28 2020 UDP link remote: [AF_INET]45.85.88.219:46664
+45-85-89-222-42352-udp-f-[USA---Los-Angeles---5]-9:first packet timeout
+Sat Feb 15 11:29:30 2020: Attempt 12
+starting openvpn /tmp/config-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.ovpn
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.105:44739
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 UDP link local: (not bound)
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:Sat Feb 15 11:29:30 2020 UDP link remote: [AF_INET]45.84.215.105:44739
+45-84-215-57-37144-udp-x-[USA---Los-Angeles---5]-11:first packet timeout
+45-85-88-219-46664-udp-f-[USA---Los-Angeles---5]-10:first packet timeout
+Sat Feb 15 11:29:31 2020: Attempt 13
+starting openvpn /tmp/config-45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13.ovpn
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.123:443
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:Sat Feb 15 11:29:31 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.123:443 [nonblock]
+45-84-215-105-44739-udp-x-[USA---Los-Angeles---5]-12:first packet timeout
+Sat Feb 15 11:29:33 2020: Attempt 14
+starting openvpn /tmp/config-45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14.ovpn
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 MANAGEMENT: Client connected from /tmp/unix-45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 MANAGEMENT: CMD 'password [...]'
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.84.215.155:443
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:Sat Feb 15 11:29:33 2020 Attempting to establish TCP connection with [AF_INET]45.84.215.155:443 [nonblock]
+45-84-215-123-443-tcp-x-[USA---Los-Angeles---5]-13:first packet timeout
+45-84-215-155-443-tcp-x-[USA---Los-Angeles---5]-14:first packet timeout
+Openvpn connector waiting
