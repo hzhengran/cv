@@ -1,0 +1,1202 @@
+VPN Logs:
+Attempt 1
+Wed Feb 19 18:46:37 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:37 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:37 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+Wed Feb 19 18:46:37 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:37 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+Wed Feb 19 18:46:37 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:37 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:37 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:37 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:37 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:37 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:37 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:37 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:37 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+first packet timeout
+Attempt 2
+Wed Feb 19 18:46:40 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:40 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:40 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+Wed Feb 19 18:46:40 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:40 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+Wed Feb 19 18:46:40 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:40 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:40 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:40 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:40 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:40 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:40 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:40 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:40 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+first packet timeout
+Attempt 3
+Wed Feb 19 18:46:44 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:44 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:44 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+Wed Feb 19 18:46:44 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:44 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+Wed Feb 19 18:46:44 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:44 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:44 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:44 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:44 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:44 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:44 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:44 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:44 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+first packet timeout
+Attempt 4
+Wed Feb 19 18:46:47 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:47 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:47 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+Wed Feb 19 18:46:47 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:47 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+Wed Feb 19 18:46:47 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:47 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:47 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:47 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:47 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:47 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:47 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:47 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:47 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+first packet timeout
+Attempt 5
+Wed Feb 19 18:46:51 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:51 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:51 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+Wed Feb 19 18:46:51 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:51 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+Wed Feb 19 18:46:51 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:51 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:51 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:51 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:51 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:51 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:51 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:51 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:51 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+first packet timeout
+Attempt 6
+Wed Feb 19 18:46:39 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:39 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:39 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+Wed Feb 19 18:46:39 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:39 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+Wed Feb 19 18:46:39 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:39 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:39 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:39 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:39 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:39 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+Wed Feb 19 18:46:39 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:39 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:39 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+first packet timeout
+Attempt 7
+Wed Feb 19 18:46:42 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:42 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:42 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+Wed Feb 19 18:46:42 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:42 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+Wed Feb 19 18:46:42 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:42 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:42 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:42 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:42 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:42 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+Wed Feb 19 18:46:42 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:42 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:42 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+first packet timeout
+Attempt 8
+Wed Feb 19 18:46:45 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:45 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:45 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+Wed Feb 19 18:46:45 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:45 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+Wed Feb 19 18:46:45 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:45 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:45 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:45 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:45 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:45 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+Wed Feb 19 18:46:45 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:45 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:45 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+first packet timeout
+Attempt 9
+Wed Feb 19 18:46:49 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:49 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:49 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+Wed Feb 19 18:46:49 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:49 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+Wed Feb 19 18:46:49 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:49 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:49 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:49 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:49 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:49 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+Wed Feb 19 18:46:49 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:49 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:49 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+first packet timeout
+Attempt 10
+Wed Feb 19 18:46:52 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:52 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:52 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+Wed Feb 19 18:46:52 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:52 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:52 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:52 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:52 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:52 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+Wed Feb 19 18:46:52 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:52 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:52 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+Attempt 11
+Wed Feb 19 18:46:52 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+Wed Feb 19 18:46:52 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+Wed Feb 19 18:46:52 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-11.sock
+Wed Feb 19 18:46:52 2020 Need password(s) from management interface, waiting...
+Wed Feb 19 18:46:52 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-11.sock
+Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'password [...]'
+Wed Feb 19 18:46:52 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+Wed Feb 19 18:46:52 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:52 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+Wed Feb 19 18:46:52 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.182:46173
+Wed Feb 19 18:46:52 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+Wed Feb 19 18:46:52 2020 UDP link local: (not bound)
+Wed Feb 19 18:46:52 2020 UDP link remote: [AF_INET]45.61.76.182:46173
+Attempt 12
+Attempt 13
+Attempt 14
+System Logs:
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector disconnected
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+DHCP: updating hosts
+connect 200
+Saving settings, exporting static leases
+fetching endpoints for 200
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+leaving disconnected state
+Openvpn connector connecting
+Wed Feb 19 18:45:08 2020: Attempt 1
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:08 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:09 2020: Attempt 2
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:09 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:first packet timeout
+Wed Feb 19 18:45:11 2020: Attempt 3
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:11 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:12 2020: Attempt 4
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:12 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:first packet timeout
+Wed Feb 19 18:45:14 2020: Attempt 5
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:14 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:16 2020: Attempt 6
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:16 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:first packet timeout
+Wed Feb 19 18:45:18 2020: Attempt 7
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:18 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:19 2020: Attempt 8
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:19 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:first packet timeout
+Wed Feb 19 18:45:21 2020: Attempt 9
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:21 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:23 2020: Attempt 11
+starting openvpn /tmp/config-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.ovpn
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.sock
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.32:20377
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 UDP link local: (not bound)
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:23 2020 UDP link remote: [AF_INET]45.61.76.32:20377
+Wed Feb 19 18:45:23 2020: Attempt 10
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:23 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:first packet timeout
+Wed Feb 19 18:45:24 2020: Attempt 12
+starting openvpn /tmp/config-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.ovpn
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.sock
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.182:46173
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 UDP link local: (not bound)
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:24 2020 UDP link remote: [AF_INET]45.61.76.182:46173
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:first packet timeout
+Wed Feb 19 18:45:25 2020: Attempt 13
+starting openvpn /tmp/config-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.ovpn
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.sock
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.116:443
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:45:26 2020 Attempting to establish TCP connection with [AF_INET]45.61.76.116:443 [nonblock]
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:first packet timeout
+Wed Feb 19 18:45:27 2020: Attempt 14
+starting openvpn /tmp/config-45-61-76-11-443-tcp-x-[Hong-Kong---4]-14.ovpn
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-11-443-tcp-x-[Hong-Kong---4]-14.sock
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 Need password(s) from management interface, waiting...
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-11-443-tcp-x-[Hong-Kong---4]-14.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.11:443
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:45:27 2020 Attempting to establish TCP connection with [AF_INET]45.61.76.11:443 [nonblock]
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:first packet timeout
+45-61-76-11-443-tcp-x-[Hong-Kong---4]-14:first packet timeout
+Openvpn connector waiting
+fetching endpoints for 200
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Wed Feb 19 18:45:42 2020: Attempt 1
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:45:42 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:44 2020: Attempt 2
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 Need password(s) from management interface, waiting...
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:45:44 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:first packet timeout
+Wed Feb 19 18:45:46 2020: Attempt 3
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:45:46 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:47 2020: Attempt 4
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:45:47 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:first packet timeout
+Wed Feb 19 18:45:49 2020: Attempt 5
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:45:49 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:51 2020: Attempt 6
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:45:51 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:first packet timeout
+Wed Feb 19 18:45:53 2020: Attempt 7
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:45:53 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:54 2020: Attempt 8
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:45:54 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:first packet timeout
+Wed Feb 19 18:45:56 2020: Attempt 9
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:first packet timeout
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:45:56 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:45:57 2020: Attempt 11
+starting openvpn /tmp/config-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.ovpn
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.sock
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 Need password(s) from management interface, waiting...
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-32-20377-udp-x-[Hong-Kong---4]-11.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.32:20377
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 UDP link local: (not bound)
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:45:57 2020 UDP link remote: [AF_INET]45.61.76.32:20377
+Wed Feb 19 18:45:57 2020: Attempt 10
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:45:57 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:first packet timeout
+Wed Feb 19 18:45:59 2020: Attempt 12
+starting openvpn /tmp/config-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.ovpn
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.sock
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-12.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.182:46173
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 UDP link local: (not bound)
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:Wed Feb 19 18:45:59 2020 UDP link remote: [AF_INET]45.61.76.182:46173
+45-61-76-32-20377-udp-x-[Hong-Kong---4]-11:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:first packet timeout
+Wed Feb 19 18:46:00 2020: Attempt 13
+starting openvpn /tmp/config-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.ovpn
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.sock
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-116-443-tcp-x-[Hong-Kong---4]-13.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.116:443
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:Wed Feb 19 18:46:00 2020 Attempting to establish TCP connection with [AF_INET]45.61.76.116:443 [nonblock]
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-12:first packet timeout
+Wed Feb 19 18:46:02 2020: Attempt 14
+starting openvpn /tmp/config-45-61-69-67-443-tcp-x-[Hong-Kong---4]-14.ovpn
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-69-67-443-tcp-x-[Hong-Kong---4]-14.sock
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-69-67-443-tcp-x-[Hong-Kong---4]-14.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 MANAGEMENT: CMD 'password [...]'
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 Outgoing Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 Incoming Control Channel Authentication: Using 512 bit message hash 'SHA512' for HMAC authentication
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.69.67:443
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 Socket Buffers: R=[87380->16777216] S=[16384->16777216]
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:Wed Feb 19 18:46:02 2020 Attempting to establish TCP connection with [AF_INET]45.61.69.67:443 [nonblock]
+45-61-76-116-443-tcp-x-[Hong-Kong---4]-13:first packet timeout
+45-61-69-67-443-tcp-x-[Hong-Kong---4]-14:first packet timeout
+Openvpn connector waiting
+fetching endpoints for 200
+132:	from all lookup 132 
+135:	from all fwmark 0x80/0x80 lookup main blackhole
+Setting up firewall
+*mangle
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+-A rut-OUTPUT -m owner --gid-owner 42 -j MARK --set-xmark 0x100/0x100
+-A rut-PREROUTING -j MARK --set-xmark 0x180/0x180
+COMMIT
+*nat
+:rut-INPUT - [0:0]
+:rut-OUTPUT - [0:0]
+:rut-PREROUTING - [0:0]
+:rut-POSTROUTING - [0:0]
+:xv-TOGGLE - [0:0]
+:xv-TOGGLE1 - [0:0]
+:xv-TOGGLE2 - [0:0]
+:xv-TOGGLELOCK - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-PREROUTING -p udp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 53 -j xv-TOGGLE
+-A rut-PREROUTING -p tcp --dport 80 -j xv-TOGGLE
+-A xv-TOGGLE -m mark --mark 0x100/0x100 -j xv-TOGGLE1
+-A xv-TOGGLE -m mark --mark 0x200/0x200 -j xv-TOGGLE2
+-A xv-TOGGLE -m mark --mark 0x80/0x80 -j xv-TOGGLELOCK
+-A xv-TOGGLE1 -p tcp --dport 80 ! -d 192.168.132.1 -j REDIRECT --to-port 8088
+-A xv-TOGGLE2 -p udp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLE2 -p tcp --dport 53 -j REDIRECT --to-port 58788
+-A xv-TOGGLELOCK -p udp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLELOCK -p tcp --dport 53 -j REDIRECT --to-port 58786
+-A xv-TOGGLE -p tcp --dport 53 -j REDIRECT --to-port 53
+-A xv-TOGGLE -p udp -m string --string expressvpnrouter --algo bm -j REDIRECT --to-port 53
+-A rut-PREROUTING -j xv-PORT-FW
+-A rut-POSTROUTING -o tun+ -j MASQUERADE
+COMMIT
+*filter
+:rut-INPUT - [0:0]
+:rut-FORWARD - [0:0]
+:rut-OUTPUT - [0:0]
+:xv-VPN1 - [0:0]
+:xv-VPN2 - [0:0]
+:xv-PORT-FW - [0:0]
+-A rut-FORWARD -p tcp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -p udp --dport 53 -m mark --mark 0x80/0x80 -j DROP
+-A rut-FORWARD -m mark --mark 0x100/0x100 -j xv-VPN1
+-A rut-FORWARD -m mark --mark 0x200/0x200 -j xv-VPN2
+-A rut-INPUT -p tcp --dport 443 -d 192.0.2.132 -j DROP
+-A rut-FORWARD -j xv-PORT-FW
+COMMIT
+
+#OK
+134:	from all fwmark 0x200/0x200 lookup 134 
+Openvpn connector connecting
+Wed Feb 19 18:46:37 2020: Attempt 1
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-1.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:Wed Feb 19 18:46:37 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:39 2020: Attempt 2
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-2.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:Wed Feb 19 18:46:39 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-1:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-2:first packet timeout
+Wed Feb 19 18:46:40 2020: Attempt 3
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-3.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:Wed Feb 19 18:46:40 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:42 2020: Attempt 4
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-4.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:Wed Feb 19 18:46:42 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-3:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-4:first packet timeout
+Wed Feb 19 18:46:44 2020: Attempt 5
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-5.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:Wed Feb 19 18:46:44 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:45 2020: Attempt 6
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-6.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:Wed Feb 19 18:46:45 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-5:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-6:first packet timeout
+Wed Feb 19 18:46:47 2020: Attempt 7
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 Need password(s) from management interface, waiting...
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-7.sock
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:Wed Feb 19 18:46:47 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:49 2020: Attempt 8
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-8.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:Wed Feb 19 18:46:49 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-7:first packet timeout
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-8:first packet timeout
+Wed Feb 19 18:46:51 2020: Attempt 9
+starting openvpn /tmp/config-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.ovpn
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-62-16013-udp-f-[Hong-Kong---4]-9.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.62:16013
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 UDP link local: (not bound)
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:Wed Feb 19 18:46:51 2020 UDP link remote: [AF_INET]45.41.184.62:16013
+Wed Feb 19 18:46:52 2020: Attempt 11
+starting openvpn /tmp/config-45-61-76-182-46173-udp-x-[Hong-Kong---4]-11.ovpn
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-11.sock
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 MANAGEMENT: Client connected from /tmp/unix-45-61-76-182-46173-udp-x-[Hong-Kong---4]-11.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'password [...]'
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.61.76.182:46173
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 UDP link local: (not bound)
+45-61-76-182-46173-udp-x-[Hong-Kong---4]-11:Wed Feb 19 18:46:52 2020 UDP link remote: [AF_INET]45.61.76.182:46173
+Wed Feb 19 18:46:52 2020: Attempt 10
+starting openvpn /tmp/config-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.ovpn
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 OpenVPN 2.4.7 [git:production/efe4e681df718662] arm-openwrt-linux-muslgnueabi [SSL (OpenSSL)] [EPOLL] [MH/PKTINFO] [AEAD] built on Dec  6 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 library versions: OpenSSL 1.1.1c  28 May 2019
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 MANAGEMENT: unix domain socket listening on /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 Need password(s) from management interface, waiting...
+SOCKET:>INFO:OpenVPN Management Interface Version 1 -- type 'help' for more info
+SOCKET:>PASSWORD:Need 'Auth' username/password
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 MANAGEMENT: Client connected from /tmp/unix-45-41-184-235-17366-udp-f-[Hong-Kong---4]-10.sock
+SOCKET:SUCCESS: 'Auth' username entered, but not yet verified
+SOCKET:SUCCESS: 'Auth' password entered, but not yet verified
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'username "Auth" 2aiy3pe6xs22lx4mftx6xrjl'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 MANAGEMENT: CMD 'password [...]'
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 WARNING: --ns-cert-type is DEPRECATED.  Use --remote-cert-tls instead.
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 Outgoing Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 Incoming Control Channel Authentication: Using 256 bit message hash 'SHA256' for HMAC authentication
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 TCP/UDP: Preserving recently used remote address: [AF_INET]45.41.184.235:17366
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 Socket Buffers: R=[180224->16777216] S=[180224->16777216]
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 UDP link local: (not bound)
+45-41-184-235-17366-udp-f-[Hong-Kong---4]-10:Wed Feb 19 18:46:52 2020 UDP link remote: [AF_INET]45.41.184.235:17366
+45-41-184-62-16013-udp-f-[Hong-Kong---4]-9:first packet timeout
